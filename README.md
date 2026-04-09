@@ -1,3 +1,13 @@
+# Freqtrade Easy Setup Fork for only Windows
+
+**This repository is a fork of the official [Freqtrade](https://github.com/freqtrade/freqtrade) trading bot.**
+
+## Changes in this fork
+- Added `install.bat` for automatic installation on Windows
+- Included basic built‑in strategies (e.g., Grid Trading, DCA, Trend Following, Scalping, Copy Trading) – ready to use and modify
+
+All credits for the original bot go to the Freqtrade team. This fork only adds installation helpers and example strategies.
+
 # ![freqtrade](https://raw.githubusercontent.com/freqtrade/freqtrade/develop/docs/assets/freqtrade_poweredby.svg)
 
 [![Freqtrade CI](https://github.com/freqtrade/freqtrade/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/freqtrade/freqtrade/actions/workflows/ci.yml)
